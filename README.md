@@ -20,10 +20,10 @@ This project is a simple web app to analyze your WhatsApp chat data. It gives yo
    ```
 
 2. **Create and activate virtual environment (MAC):**
-```bash
-python3 -m venv venv
-source venv/bin/activate 
-```
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate 
+   ```
 
 3. **Install the required packages:**
    ```bash
